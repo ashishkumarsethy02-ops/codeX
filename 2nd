@@ -1,0 +1,5 @@
+"Write a Python program to print the phrase Python is called "beginner-friendly".
+Include the double quotes exactly as shown.
+No input is required."
+CODE:-
+print('Python is called "beginner-friendly".')
