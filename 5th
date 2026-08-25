@@ -1,0 +1,13 @@
+"Write a Python program to accept three integers from the user.
+Compare them to find the largest number.
+Print the largest number."
+CODE:-
+a=int(input())
+b=int(input())
+c=int(input())
+if a>b and a>c:
+    print(a)
+elif b>c:
+    print(b)
+else:
+    print(c)
