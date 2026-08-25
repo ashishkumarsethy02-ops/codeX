@@ -1,0 +1,9 @@
+"Write a Python program which prints the result as shown in the Sample output.
+Inititalise name as Naresh and age as 40.
+Print the name and age on separate lines using \n and \t.
+Ensure the output is neatly aligned."
+CODE:-
+
+name="Naresh"
+age=40
+print("Name:\t",name,"\nAge:\t",age)
